@@ -13,6 +13,15 @@ source-file ~/.tmux.conf
 # to enter COPY mode
 Ctrl + B + [
 
+# forward, back
+E, B
+
+# entire line
+space / V
+
+# copy the desired selecttion
+ENTER
+
 # to end copy mode
 press ESC twice
 ```
