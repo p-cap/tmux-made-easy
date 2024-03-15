@@ -13,6 +13,9 @@ source-file ~/.tmux.conf
 # to enter COPY mode
 Ctrl + B + [
 
+# exit COPY mode at anytime
+Ctrl + C
+
 # forward, back
 E, B
 
