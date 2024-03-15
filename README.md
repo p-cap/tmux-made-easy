@@ -20,7 +20,10 @@ Ctrl + C
 E, B
 
 # entire line
-space / V
+V
+
+# single character
+space
 
 # copy the desired selecttion
 ENTER
